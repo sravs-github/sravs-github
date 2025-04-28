@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sravani</h1>
-<h3 align="center">Sravani's coding adventures</h3>
+<h3 align="center">🔭 Iam currently pursuing Btech 4th year</h3>
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/72FVyDZae9L99JSk7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravs-github&label=Profile%20views&color=0e75b6&style=flat" alt="sravs-github" /> </p>
